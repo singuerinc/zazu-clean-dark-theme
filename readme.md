@@ -2,6 +2,9 @@
 
 A clean theme written in SASS with node/gulp.
 
+- Dark theme
+- No logo
+
 ![Screenshot](./images/screenshot.png)
 
 ## Installing
