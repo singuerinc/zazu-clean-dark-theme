@@ -1,7 +1,7 @@
 {
-  "name": "clean-theme",
+  "name": "clean-dark-theme",
   "version": "1.0.0",
-  "description": "A clean theme for Zazu.",
+  "description": "A clean dark theme for Zazu.",
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp build"
