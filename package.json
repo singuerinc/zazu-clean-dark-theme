@@ -2,14 +2,9 @@
   "name": "clean-dark-theme",
   "version": "1.0.0",
   "description": "A clean dark theme for Zazu.",
-  "main": "gulpfile.js",
-  "scripts": {
-    "build": "gulp build"
-  },
   "author": "Nahuel Scotti",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-sass": "^2.3.1"
+    
   }
 }

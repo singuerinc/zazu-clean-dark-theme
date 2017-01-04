@@ -4,17 +4,13 @@
 
 ## Installing
 
-Mark `singuerinc/zazu-clean-theme` inside of your `~/.zazurc.json` file.
+1. Mark `singuerinc/zazu-clean-dark-theme` inside of your `~/.zazurc.json` file.
 
-~~~ json
-{
-  "theme": "singuerinc/zazu-clean-theme"
-}
-~~~
+  ```json
+  {
+    "theme": "singuerinc/zazu-clean-dark-theme"
+  }
+  ```
 
-## Building
-
-~~~
-npm install
-npm run build
-~~~
+2. Zazu > Update Plugins
+3. Zazu > Reload Config

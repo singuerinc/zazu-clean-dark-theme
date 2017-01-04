@@ -1,7 +1,7 @@
 {
-  "name": "Clean Theme",
+  "name": "Clean Dark Theme",
   "version": "1.0.0",
   "author": "singuerinc",
-  "description": "A basic clean theme for Zazu",
+  "description": "A basic clean dark theme for Zazu",
   "stylesheet": "dist/main.css"
 }
