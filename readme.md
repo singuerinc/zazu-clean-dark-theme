@@ -1,9 +1,4 @@
-## Clean Theme
-
-A clean theme written in SASS with node/gulp.
-
-- Dark theme
-- No logo
+## Clean Dark Theme for Zazu
 
 ![Screenshot](./images/screenshot.png)
 
