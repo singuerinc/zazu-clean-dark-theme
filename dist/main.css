@@ -86,6 +86,13 @@ section#zazu div.results ul li.active {
   background-color: #343a40;
   color: #f8f9fa;
 }
+section#zazu div.results ul li img.icon {
+  -webkit-filter: opacity(30%) grayscale(100%);
+}
+section#zazu div.results ul li.active img.icon,
+section#zazu div.results ul li:hover img.icon {
+  -webkit-filter: opacity(100%) grayscale(100%);
+}
 section#zazu div.results ul li:hover {
   background-color: #495057;
   color: #e9ecef;
